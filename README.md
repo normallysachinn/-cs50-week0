@@ -2,7 +2,7 @@
 Harvard CS50 course projects and solutions
 # CS50 Week 0 - Scratch Projects
 
-## Project Rabbit
+## Project duck
 
 A game inspired by a childhood memory. In grade LKG, I played a bird-catching-fish game at a friend's house and loved it. Years later, I decided to recreate it using Scratch.
 
@@ -29,6 +29,6 @@ A game inspired by a childhood memory. In grade LKG, I played a bird-catching-fi
 
 ## Reflection
 
-This project taught me that programming isn't just about following instructions—it's about solving problems creatively. I had to figure out how to recreate a game I only half-remembered, using tools I was learning for the first time. That process of exploration, failure, and improvement is what makes coding exciting.
+This project taught me that programming isn't just about following instructions—it's about solving problems creatively. I had to figure out how to recreate a game I only half-remembered, using tools I was learning for the first time. That process of exploration, failure and improvement is what makes coding exciting.
 
 link: https://scratch.mit.edu/projects/1329347010
